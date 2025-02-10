@@ -6,7 +6,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pietroruzzante&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pietroruzzante&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-# 📂 My Repositories:
+# 📂 My Projects:
 - [Focus Line App](https://github.com/pietroruzzante/focus-line-app)
 - [Problematic Internet Use](https://github.com/pietroruzzante/problematic-internet-use)
 - [Aura](https://github.com/pietroruzzante/aura)

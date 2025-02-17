@@ -10,4 +10,5 @@
 - [Focus Line App](https://github.com/pietroruzzante/focus-line-app)
 - [Problematic Internet Use](https://github.com/pietroruzzante/problematic-internet-use)
 - [Aura](https://github.com/pietroruzzante/aura)
+- [Convolutional Neural Network for cancer detection]((https://github.com/pietroruzzante/cnn-breast-cancer-detection))
 

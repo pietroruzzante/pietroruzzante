@@ -13,13 +13,13 @@ Here are some of the projects I have worked on independently:
    - **Link**: [Focus Line App](https://github.com/pietroruzzante/focus-line-app)
 
 ### 2. **[Investigating Brain Dopamine Lateralization in Parkinson’s Disease](https://github.com/pietroruzzante/brain-dopamine-lateralization-in-parkinson-disease)**
-   - **Course**: [Bioingegneria, Università degli Studi di Padova]   
+   - **University Project**: Bioingegneria, Università degli Studi di Padova 
    - **Description**: A statistical analysis in MATLAB to evaluate the usefulness of SBR value lateralization for diagnosing Parkinson's disease.
    - **Technologies Used**: MATLAB, Statistical Analysis tools
    - **Link**: [Investigating Brain Dopamine Lateralization in Parkinson’s Disease](https://github.com/pietroruzzante/brain-dopamine-lateralization-in-parkinson-disease)
 
 ### 3. **[Convolutional Neural Network for Cancer Detection](https://github.com/pietroruzzante/cnn-breast-cancer-detection)**
-  - **Course**: [Ingenieria Biomedica, Universidade de Vigo] 
+  - **University Project**: Ingeniería Biomédica, Universidade de Vigo
    - **Description**: Development of a neural network model for the early detection of breast cancer from mammogram images.
    - **Technologies Used**: MATLAB, Convolutional Neural Networks (CNN)
    - **Link**: [Convolutional Neural Network for Cancer Detection](https://github.com/pietroruzzante/cnn-breast-cancer-detection)
@@ -31,7 +31,7 @@ Here are some of the projects I have worked on independently:
    - **Link**: [Problematic Internet Use](https://github.com/pietroruzzante/problematic-internet-use)
 
 ### 5. **[Aura](https://github.com/pietroruzzante/aura)**
-   - **Course**: [Bioingegneria, Università degli Studi di Padova]  
+   - **University Project**: Bioingegneria, Università degli Studi di Padova
    - **Description**: A mobile app powered by a machine learning model that estimates the probability of experiencing headaches by analyzing smartwatch data and environmental factors.
    - **Technologies Used**: Machine Learning, Flutter/Dart, RESTful API
    - **Link**: [Aura](https://github.com/pietroruzzante/aura)

@@ -5,7 +5,6 @@
 
 ## Projects
 
-Here are some of the projects I have worked on independently:
 
 ### 1. **[Focus Line App](https://github.com/pietroruzzante/focus-line-app)**
    - **Description**: A Flutter-based web application that uses a convolutional neural network to detect stress through facial analysis and suggests the optimal time for the user to take a break.

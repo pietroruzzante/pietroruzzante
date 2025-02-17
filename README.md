@@ -3,7 +3,7 @@
 
 ---
 
-## Personal Projects
+## Projects
 
 Here are some of the projects I have worked on independently:
 
@@ -12,31 +12,25 @@ Here are some of the projects I have worked on independently:
    - **Technologies Used**: Flutter, Python, Convolutional Neural Networks (CNN), TensorFlow, FastAPI
    - **Link**: [Focus Line App](https://github.com/pietroruzzante/focus-line-app)
 
-### 2. **[Problematic Internet Use](https://github.com/pietroruzzante/problematic-internet-use)**
-   - **Kaggle Competition**
-   - **Description**: A predictive model aimed at identifying early signs of problematic internet usage in children and adolescents based on their physical activity and fitness data.
-   - **Technologies Used**: Python, Machine Learning, Statistical Analysis tools
-   - **Link**: [Problematic Internet Use](https://github.com/pietroruzzante/problematic-internet-use)
-
----
-
-## University Projects
-
-During my university studies, I have completed some academic projects which showcase my skills in various areas of computer science and engineering:
-
-### 1. **[Investigating Brain Dopamine Lateralization in Parkinson’s Disease](https://github.com/pietroruzzante/brain-dopamine-lateralization-in-parkinson-disease)**
+### 2. **[Investigating Brain Dopamine Lateralization in Parkinson’s Disease](https://github.com/pietroruzzante/brain-dopamine-lateralization-in-parkinson-disease)**
    - **Course**: [Bioingegneria, Università degli Studi di Padova]   
    - **Description**: A statistical analysis in MATLAB to evaluate the usefulness of SBR value lateralization for diagnosing Parkinson's disease.
    - **Technologies Used**: MATLAB, Statistical Analysis tools
    - **Link**: [Investigating Brain Dopamine Lateralization in Parkinson’s Disease](https://github.com/pietroruzzante/brain-dopamine-lateralization-in-parkinson-disease)
 
-### 2. **[Convolutional Neural Network for Cancer Detection](https://github.com/pietroruzzante/cnn-breast-cancer-detection)**
+### 3. **[Convolutional Neural Network for Cancer Detection](https://github.com/pietroruzzante/cnn-breast-cancer-detection)**
   - **Course**: [Ingenieria Biomedica, Universidade de Vigo] 
    - **Description**: Development of a neural network model for the early detection of breast cancer from mammogram images.
    - **Technologies Used**: MATLAB, Convolutional Neural Networks (CNN)
    - **Link**: [Convolutional Neural Network for Cancer Detection](https://github.com/pietroruzzante/cnn-breast-cancer-detection)
 
-### 3. **[Aura](https://github.com/pietroruzzante/aura)**
+### 4. **[Problematic Internet Use](https://github.com/pietroruzzante/problematic-internet-use)**
+   - **Kaggle Competition**
+   - **Description**: A predictive model aimed at identifying early signs of problematic internet usage in children and adolescents based on their physical activity and fitness data.
+   - **Technologies Used**: Python, Machine Learning, Statistical Analysis tools
+   - **Link**: [Problematic Internet Use](https://github.com/pietroruzzante/problematic-internet-use)
+
+### 5. **[Aura](https://github.com/pietroruzzante/aura)**
    - **Course**: [Bioingegneria, Università degli Studi di Padova]  
    - **Description**: A mobile app powered by a machine learning model that estimates the probability of experiencing headaches by analyzing smartwatch data and environmental factors.
    - **Technologies Used**: Machine Learning, Flutter/Dart, RESTful API

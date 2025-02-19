@@ -8,7 +8,7 @@
 
 ### 1. **[Focus Line App](https://github.com/pietroruzzante/focus-line-app)**
    - **Description**: A Flutter-based web application that uses a convolutional neural network to detect stress through facial analysis and suggests the optimal time for the user to take a break.
-   - **Technologies Used**: Flutter, Python, Convolutional Neural Networks (CNN), TensorFlow, FastAPI
+   - **Technologies Used**: Flutter, Python, Convolutional Neural Networks (CNN),Sklearn, TensorFlow, FastAPI
    - **Link**: [Focus Line App](https://github.com/pietroruzzante/focus-line-app)
 
 ### 2. **[Investigating Brain Dopamine Lateralization in Parkinson’s Disease](https://github.com/pietroruzzante/brain-dopamine-lateralization-in-parkinson-disease)**
@@ -26,7 +26,7 @@
 ### 4. **[Problematic Internet Use](https://github.com/pietroruzzante/problematic-internet-use)**
    - **Kaggle Competition**
    - **Description**: A predictive model aimed at identifying early signs of problematic internet usage in children and adolescents based on their physical activity and fitness data.
-   - **Technologies Used**: Python, Machine Learning, Statistical Analysis tools
+   - **Technologies Used**: Python, Sklearn, Machine Learning, Statistical Analysis tools
    - **Link**: [Problematic Internet Use](https://github.com/pietroruzzante/problematic-internet-use)
 
 ### 5. **[Aura](https://github.com/pietroruzzante/aura)**

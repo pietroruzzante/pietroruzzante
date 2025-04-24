@@ -35,6 +35,12 @@
    - **Technologies Used**: Machine Learning, Flutter/Dart, RESTful API
    - **Link**: [Aura](https://github.com/pietroruzzante/aura)
 
+### 6. **[Graphical Interface for Embedded Insulin Pump](https://github.com/pietroruzzante/InsulinPump-EmbeddedGUI)**
+   - **University Project**: Ingeniería Biomédica, Universidade de Vigo
+   - **Description**: Development of a touch-based graphical user interface (GUI) for a blood glucose monitoring and insulin delivery system using the STM32F429I-DISC1 microcontroller.
+   - **Technologies Used**: STM32CubeIDE, C, FreeRTOS, STM32 HAL/LL Drivers, Embedded Systems, Touchscreen UI, ILI9341 Display Controller
+   - **Link**: [InsulinPump-EmbeddedGUI](https://github.com/pietroruzzante/InsulinPump-EmbeddedGUI)
+
 ---
 
   

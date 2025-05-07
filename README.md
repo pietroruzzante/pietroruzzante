@@ -3,7 +3,7 @@
 
 ---
 
-# 🚀 Projects
+# Projects
 
 
 ### 1. **[Focus Line App](https://github.com/pietroruzzante/focus-line-app)**

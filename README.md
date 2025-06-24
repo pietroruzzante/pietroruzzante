@@ -23,6 +23,8 @@
    - **Technologies Used**: MATLAB, Statistical Analysis tools
    - **Link**: [Investigating Brain Dopamine Lateralization in Parkinson’s Disease](https://github.com/pietroruzzante/brain-dopamine-lateralization-in-parkinson-disease)
 
+### **[COPD Risk Prediction with Logistic Regression and Robust Feature Selection on UK Health Data]()**
+
 ### **[Graphical Interface for Embedded Insulin Pump](https://github.com/pietroruzzante/InsulinPump-EmbeddedGUI)**
    - **University Project**: Ingeniería Biomédica, Universidade de Vigo
    - **Description**: Development of a touch-based graphical user interface (GUI) for a blood glucose monitoring and insulin delivery system using the STM32F429I-DISC1 microcontroller.

@@ -3,7 +3,7 @@
 
 ---
 
-# University Projects
+## University Projects
 
 ### **[Convolutional Neural Network for Cancer Detection](https://github.com/pietroruzzante/cnn-breast-cancer-detection)**
   - **University Project**: Ingeniería Biomédica, Universidade de Vigo
@@ -30,7 +30,7 @@
    - **Link**: [InsulinPump-EmbeddedGUI](https://github.com/pietroruzzante/InsulinPump-EmbeddedGUI)
 
 
-# Personal Projects
+## Personal Projects
 
 ### **[NLP for clinical text classification](https://github.com/pietroruzzante/nlp-clinical-text-classification)**
    - **Personal project**

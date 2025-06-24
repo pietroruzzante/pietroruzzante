@@ -23,7 +23,11 @@
    - **Technologies Used**: MATLAB, Statistical Analysis tools
    - **Link**: [Investigating Brain Dopamine Lateralization in Parkinson’s Disease](https://github.com/pietroruzzante/brain-dopamine-lateralization-in-parkinson-disease)
 
-### **[COPD Risk Prediction with Logistic Regression and Robust Feature Selection on UK Health Data]()**
+### **[COPD Risk Prediction with Logistic Regression and Robust Feature Selection on UK Health Data](https://github.com/pietroruzzante/copd-prediction)**
+   - **University Project**: Bioingegneria, Università degli Studi di Padova
+   - **Description**: Development of a logistic regression model for predicting COPD risk, through a complete and robust pipeline.
+   - **Technologies Used**: R, Machine Learning
+   - - **Link**: [COPD Risk Prediction with Logistic Regression and Robust Feature Selection on UK Health Data](https://github.com/pietroruzzante/copd-prediction)
 
 ### **[Graphical Interface for Embedded Insulin Pump](https://github.com/pietroruzzante/InsulinPump-EmbeddedGUI)**
    - **University Project**: Ingeniería Biomédica, Universidade de Vigo

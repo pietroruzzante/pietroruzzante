@@ -3,7 +3,7 @@
 
 ---
 
-## Machine Learning and Deep Learning
+## Data Analysis, Machine Learning and Deep Learning
 
 ### **[Convolutional Neural Network for Cancer Detection](https://github.com/pietroruzzante/cnn-breast-cancer-detection)**
   - **University Project**: Ingeniería Biomédica, Universidade de Vigo

@@ -18,6 +18,18 @@
    - **Technologies Used**: MATLAB, Statistical Analysis tools
    - **Link**: [Investigating Brain Dopamine Lateralization in Parkinson’s Disease](https://github.com/pietroruzzante/brain-dopamine-lateralization-in-parkinson-disease)
 
+---
+
+## NLP and Large Language Models
+
+### **[NLP for clinical text classification](https://github.com/pietroruzzante/nlp-clinical-text-classification)**
+   - **Personal project**
+   - **Description**: A detailed analysis of a clinical text dataset, using BERT for embeddings and SVM model for medical speciality classification
+   - **Technologies Used**: SciKit-Learn, SentenceTransformer, Hugging Face
+   - **Link**: [NLP for clinical text classification](https://github.com/pietroruzzante/nlp-clinical-text-classification)
+
+---
+
 ## Data Analysis
 
 ### **[Problematic Internet Use](https://github.com/pietroruzzante/problematic-internet-use)**
@@ -32,13 +44,7 @@
    - **Technologies Used**: R, Machine Learning
    - **Link**: [COPD Risk Prediction with Logistic Regression and Robust Feature Selection on UK Health Data](https://github.com/pietroruzzante/copd-prediction)
 
-## NLP and Large Language Models
-
-### **[NLP for clinical text classification](https://github.com/pietroruzzante/nlp-clinical-text-classification)**
-   - **Personal project**
-   - **Description**: A detailed analysis of a clinical text dataset, using BERT for embeddings and SVM model for medical speciality classification
-   - **Technologies Used**: SciKit-Learn, SentenceTransformer, Hugging Face
-   - **Link**: [NLP for clinical text classification](https://github.com/pietroruzzante/nlp-clinical-text-classification)
+---
 
 ## Mobile development
 
@@ -52,6 +58,8 @@
    - **Description**: A mobile app powered by a machine learning model that estimates the probability of experiencing headaches by analyzing smartwatch data and environmental factors.
    - **Technologies Used**: Machine Learning, Flutter/Dart, RESTful API
    - **Link**: [Aura](https://github.com/pietroruzzante/aura)
+
+---
 
 ## Embedded Systems
 

@@ -3,7 +3,7 @@
 
 ---
 
-## University Projects
+## Machine Learning and Deep Learning
 
 ### **[Convolutional Neural Network for Cancer Detection](https://github.com/pietroruzzante/cnn-breast-cancer-detection)**
   - **University Project**: Ingeniería Biomédica, Universidade de Vigo
@@ -11,11 +11,6 @@
    - **Technologies Used**: MATLAB, Convolutional Neural Networks (CNN)
    - **Link**: [Convolutional Neural Network for Cancer Detection](https://github.com/pietroruzzante/cnn-breast-cancer-detection)
 
-### **[Aura](https://github.com/pietroruzzante/aura)**
-   - **University Project**: Bioingegneria, Università degli Studi di Padova
-   - **Description**: A mobile app powered by a machine learning model that estimates the probability of experiencing headaches by analyzing smartwatch data and environmental factors.
-   - **Technologies Used**: Machine Learning, Flutter/Dart, RESTful API
-   - **Link**: [Aura](https://github.com/pietroruzzante/aura)
 
 ### **[Investigating Brain Dopamine Lateralization in Parkinson’s Disease](https://github.com/pietroruzzante/brain-dopamine-lateralization-in-parkinson-disease)**
    - **University Project**: Bioingegneria, Università degli Studi di Padova 
@@ -23,20 +18,21 @@
    - **Technologies Used**: MATLAB, Statistical Analysis tools
    - **Link**: [Investigating Brain Dopamine Lateralization in Parkinson’s Disease](https://github.com/pietroruzzante/brain-dopamine-lateralization-in-parkinson-disease)
 
+## Data Analysis
+
+### **[Problematic Internet Use](https://github.com/pietroruzzante/problematic-internet-use)**
+   - **Kaggle Competition**
+   - **Description**: A predictive model aimed at identifying early signs of problematic internet usage in children and adolescents based on their physical activity and fitness data.
+   - **Technologies Used**: Python, Sklearn, Machine Learning, Statistical Analysis tools
+   - **Link**: [Problematic Internet Use](https://github.com/pietroruzzante/problematic-internet-use)
+
 ### **[COPD Risk Prediction with Logistic Regression and Robust Feature Selection on UK Health Data](https://github.com/pietroruzzante/copd-prediction)**
    - **University Project**: Bioingegneria, Università degli Studi di Padova
    - **Description**: Development of a logistic regression model for predicting COPD risk, through a complete and robust pipeline.
    - **Technologies Used**: R, Machine Learning
    - **Link**: [COPD Risk Prediction with Logistic Regression and Robust Feature Selection on UK Health Data](https://github.com/pietroruzzante/copd-prediction)
 
-### **[Graphical Interface for Embedded Insulin Pump](https://github.com/pietroruzzante/InsulinPump-EmbeddedGUI)**
-   - **University Project**: Ingeniería Biomédica, Universidade de Vigo
-   - **Description**: Development of a touch-based graphical user interface (GUI) for a blood glucose monitoring and insulin delivery system using the STM32F429I-DISC1 microcontroller.
-   - **Technologies Used**: STM32CubeIDE, C, FreeRTOS, STM32 HAL/LL Drivers, Embedded Systems, Touchscreen UI, ILI9341 Display Controller
-   - **Link**: [InsulinPump-EmbeddedGUI](https://github.com/pietroruzzante/InsulinPump-EmbeddedGUI)
-
-
-## Personal Projects
+## NLP and Large Language Models
 
 ### **[NLP for clinical text classification](https://github.com/pietroruzzante/nlp-clinical-text-classification)**
    - **Personal project**
@@ -44,16 +40,26 @@
    - **Technologies Used**: SciKit-Learn, SentenceTransformer, Hugging Face
    - **Link**: [NLP for clinical text classification](https://github.com/pietroruzzante/nlp-clinical-text-classification)
 
+## Mobile development
+
 ### **[Focus Line App](https://github.com/pietroruzzante/focus-line-app)**
    - **Description**: A Flutter-based web application that uses a convolutional neural network to detect stress through facial analysis and suggests the optimal time for the user to take a break.
    - **Technologies Used**: Flutter, Python, Convolutional Neural Networks (CNN),Sklearn, TensorFlow, FastAPI
    - **Link**: [Focus Line App](https://github.com/pietroruzzante/focus-line-app)
 
-### **[Problematic Internet Use](https://github.com/pietroruzzante/problematic-internet-use)**
-   - **Kaggle Competition**
-   - **Description**: A predictive model aimed at identifying early signs of problematic internet usage in children and adolescents based on their physical activity and fitness data.
-   - **Technologies Used**: Python, Sklearn, Machine Learning, Statistical Analysis tools
-   - **Link**: [Problematic Internet Use](https://github.com/pietroruzzante/problematic-internet-use)
+### **[Aura](https://github.com/pietroruzzante/aura)**
+   - **University Project**: Bioingegneria, Università degli Studi di Padova
+   - **Description**: A mobile app powered by a machine learning model that estimates the probability of experiencing headaches by analyzing smartwatch data and environmental factors.
+   - **Technologies Used**: Machine Learning, Flutter/Dart, RESTful API
+   - **Link**: [Aura](https://github.com/pietroruzzante/aura)
+
+## Embedded Systems
+
+### **[Graphical Interface for Embedded Insulin Pump](https://github.com/pietroruzzante/InsulinPump-EmbeddedGUI)**
+   - **University Project**: Ingeniería Biomédica, Universidade de Vigo
+   - **Description**: Development of a touch-based graphical user interface (GUI) for a blood glucose monitoring and insulin delivery system using the STM32F429I-DISC1 microcontroller.
+   - **Technologies Used**: STM32CubeIDE, C, FreeRTOS, STM32 HAL/LL Drivers, Embedded Systems, Touchscreen UI, ILI9341 Display Controller
+   - **Link**: [InsulinPump-EmbeddedGUI](https://github.com/pietroruzzante/InsulinPump-EmbeddedGUI)
 
 ---
 

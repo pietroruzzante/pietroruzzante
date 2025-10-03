@@ -3,6 +3,27 @@
 
 ---
 
+## Software development and Large Language Models
+
+### **[Aura](https://github.com/pietroruzzante/aura)**
+   - **University Project**: Bioingegneria, Università degli Studi di Padova
+   - **Description**: A mobile app powered by a machine learning model that estimates the probability of experiencing headaches by analyzing smartwatch data and environmental factors.
+   - **Technologies Used**: Machine Learning, Flutter/Dart, RESTful API
+   - **Link**: [Aura](https://github.com/pietroruzzante/aura)
+
+### **[Focus Line App](https://github.com/pietroruzzante/focus-line-app)**
+   - **Description**: A Flutter-based web application that uses a convolutional neural network to detect stress through facial analysis and suggests the optimal time for the user to take a break.
+   - **Technologies Used**: Flutter, Python, Convolutional Neural Networks (CNN),Sklearn, TensorFlow, FastAPI
+   - **Link**: [Focus Line App](https://github.com/pietroruzzante/focus-line-app)
+
+### **[NLP for clinical text classification](https://github.com/pietroruzzante/nlp-clinical-text-classification)**
+   - **Personal project**
+   - **Description**: A detailed analysis of a clinical text dataset, using BERT for embeddings and SVM model for medical speciality classification
+   - **Technologies Used**: SciKit-Learn, SentenceTransformer, Hugging Face
+   - **Link**: [NLP for clinical text classification](https://github.com/pietroruzzante/nlp-clinical-text-classification)
+
+---
+
 ## Data Analysis, Machine Learning and Deep Learning
 
 ### **[Convolutional Neural Network for Cancer Detection](https://github.com/pietroruzzante/cnn-breast-cancer-detection)**
@@ -28,31 +49,6 @@
    - **Description**: Development of a logistic regression model for predicting COPD risk, through a complete and robust pipeline.
    - **Technologies Used**: R, Machine Learning
    - **Link**: [COPD Risk Prediction with Logistic Regression and Robust Feature Selection on UK Health Data](https://github.com/pietroruzzante/copd-prediction)
-
----
-
-## NLP and Large Language Models
-
-### **[NLP for clinical text classification](https://github.com/pietroruzzante/nlp-clinical-text-classification)**
-   - **Personal project**
-   - **Description**: A detailed analysis of a clinical text dataset, using BERT for embeddings and SVM model for medical speciality classification
-   - **Technologies Used**: SciKit-Learn, SentenceTransformer, Hugging Face
-   - **Link**: [NLP for clinical text classification](https://github.com/pietroruzzante/nlp-clinical-text-classification)
-
----
-
-## Software development
-
-### **[Focus Line App](https://github.com/pietroruzzante/focus-line-app)**
-   - **Description**: A Flutter-based web application that uses a convolutional neural network to detect stress through facial analysis and suggests the optimal time for the user to take a break.
-   - **Technologies Used**: Flutter, Python, Convolutional Neural Networks (CNN),Sklearn, TensorFlow, FastAPI
-   - **Link**: [Focus Line App](https://github.com/pietroruzzante/focus-line-app)
-
-### **[Aura](https://github.com/pietroruzzante/aura)**
-   - **University Project**: Bioingegneria, Università degli Studi di Padova
-   - **Description**: A mobile app powered by a machine learning model that estimates the probability of experiencing headaches by analyzing smartwatch data and environmental factors.
-   - **Technologies Used**: Machine Learning, Flutter/Dart, RESTful API
-   - **Link**: [Aura](https://github.com/pietroruzzante/aura)
 
 ---
 

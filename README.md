@@ -7,7 +7,7 @@
 
 ### **[Mistral Smartwatch Analyzer](https://github.com/pietroruzzante/mistral-smartwatch)**
    - **Personal Project**
-   - **Description**: A web app for analyzing daily smartwatch's data and which integrates Mistral API for providing useful insights about user's health
+   - **Description**: A web app for analyzing daily smartwatch's data which integrates Mistral API for providing useful insights about user's health
    - **Technologies Used**: LLM (Mistral SDK), FastAPI, full-stack development, Streamlit
    - **Link**: [Mistral Smartwatch Analyzer](https://github.com/pietroruzzante/mistral-smartwatch)
 

@@ -3,7 +3,7 @@
 
 ---
 
-## Software development and Large Language Models
+## Software & AI Development
 
 ### **[Mistral Smartwatch Analyzer](https://github.com/pietroruzzante/mistral-smartwatch)**
    - **Personal Project**

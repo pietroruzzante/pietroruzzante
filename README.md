@@ -9,8 +9,8 @@
    - **Master's thesis**
    - **Description**: A real-time decision-support system for Type 1 Diabetes management, based on a Large Language Model
    - **Technologies Used**: LLM, LangChain, Llama.Cpp, full-stack development
-   - **Link**: [Mistral Smartwatch Analyzer](https://github.com/pietroruzzante/mistral-smartwatch)
-
+   - **Link**: [LLM-based Decision Support System for Type 1 Diabetes](https://github.com/pietroruzzante/dss-llm-diabetes-demo)
+     
 ### **[Mistral Smartwatch Analyzer](https://github.com/pietroruzzante/mistral-smartwatch)**
    - **Personal Project**
    - **Description**: A web app for analyzing daily smartwatch's data which integrates Mistral API for providing useful insights about user's health

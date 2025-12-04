@@ -3,7 +3,7 @@
 
 ---
 
-## Software & AI Development
+## AI Development
 
 ### [LLM-based Decision Support System for Type 1 Diabetes](https://github.com/pietroruzzante/dss-llm-diabetes-demo)
    - **Master's thesis**

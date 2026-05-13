@@ -11,6 +11,12 @@
    - **Technologies Used**: LLM, LangChain, Llama.Cpp, full-stack development
    - **Link**: [LLM-based Decision Support System for Type 1 Diabetes](https://github.com/pietroruzzante/dss-llm-diabetes-demo)
      
+### **[LinkedIn Job Scraper & CV Customizer](https://github.com/pietroruzzante/linkedin_scraper_pipeline)**
+   - **Personal Project**
+   - **Description**: A serverless pipeline that scrapes LinkedIn every 2 hours, scores job offers with an LLM against your CV and profile, and delivers a tailored PDF CV directly to Telegram.
+   - **Technologies Used**: LangChain, GPT-4o, AWS Lambda, EventBridge, python-docx, Telegram Bot API
+   - **Link**: [LinkedIn Job Scraper & CV Customizer](https://github.com/pietroruzzante/linkedin_scraper_pipeline)
+
 ### **[Mistral Smartwatch Analyzer](https://github.com/pietroruzzante/mistral-smartwatch)**
    - **Personal Project**
    - **Description**: A web app for analyzing daily smartwatch's data which integrates Mistral API for providing useful insights about user's health
